@@ -1,5 +1,5 @@
 # Welcome to the **2018 Aotearoa Makertrail** and **State of the Maker Nation** #  
-## Brought to you by [Meshed](meshed.nz) for [TechWeek](techweek.co.nz) ##
+## Brought to you by [Meshed](http://meshed.nz) for [TechWeek](http://techweek.co.nz) ##
 
 [Dunedin](dunedin.md),           Monday     21 May  
 [Christchurch](christchurch.md), Tuesday    22 May    
