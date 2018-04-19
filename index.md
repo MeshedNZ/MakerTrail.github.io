@@ -1,7 +1,5 @@
 #Welcome to the 2018#  
-
 #Aotearoa Makertrail and#  
-
 #State of the Maker Nation#  
 
 ### Brought to you by [Meshed](http://meshed.nz) for [TechWeek](http://techweek.co.nz) ###
