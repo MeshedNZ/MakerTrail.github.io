@@ -33,7 +33,7 @@ Feel free to drop [Andrew](mailto:andrew+makertrail@meshed.nz?subject=Enquiry vi
 
 **[Auckland](https://www.eventbrite.co.nz/e/state-of-the-maker-nation-auckland-tickets-41065451872)**  
 [Thursday, May 24, 7-9 PM](https://www.eventbrite.co.nz/calendar.ics?eid=41065451872&calendar=ical&date=None)  
-[address TBD](https://goo.gl/maps/V9KuCZJMg4v)
+[Auckland University of Technology, Room WG126, 55 Wellesley Street East](https://goo.gl/maps/REgC3Vs8e4T2)
 
 RSVP tickets are [available here](https://www.eventbrite.co.nz/o/meshednz-17095798720)
 
