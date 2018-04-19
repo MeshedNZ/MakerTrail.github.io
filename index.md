@@ -1,6 +1,5 @@
-# Welcome to the 2018 #
-# Aotearoa Makertrail and #  
-# State of the Maker Nation #
+# Welcome to the 2018 <br/> Aotearoa Makertrail and <br/> State of the Maker Nation #
+
 ### Brought to you by [Meshed](http://meshed.nz) for [TechWeek](http://techweek.co.nz) ###
 
 Short updates focused on MakerSpaces in schools, libraries and the community. Experts in each field will give a summary of what is happening now and in the foreseeable future in their respective areas, followed by a round of lightning pitches by groups in the Maker community.
