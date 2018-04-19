@@ -6,11 +6,11 @@
 Short updates focused on MakerSpaces in schools, libraries and the community. Experts in each field will give a summary of what is happening now and in the foreseeable future in their respective areas, followed by a round of lightning pitches by groups in the Maker community.
 
 
-![@KiwiMrDee](assets/pix/kiwimrdee.jpg)
+![@KiwiMrDee](assets/pix/kiwimrdee.jpg)  
 **[Andrew Dixon](https://twitter.com/KiwiMrDee)** will be speaking on makerspaces in the community. He has been a founding member of two Auckland based makerspaces, and is currently a trustee of the [Gribblehirst Community Hub](https://ghub.nz/) in Auckland. Through Meshed, Andrew also consults countrywide on maker related issues.
 
 
-![@mosborne01](assets/pix/mosborne01.jpg)
+![@mosborne01](assets/pix/mosborne01.jpg)  
 **[Mark Osborne](https://twitter.com/mosborne01)** is an expert in future-focused education; innovative and inclusive learning environments. His mission is to help all schools become awesomeness incubators. (This will be a video presentaion)
 
 
