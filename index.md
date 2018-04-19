@@ -29,7 +29,7 @@ Feel free to drop [Andrew](mailto:andrew+makertrail@meshed.nz?subject=Enquiry vi
 
 **[Wellington](https://www.eventbrite.co.nz/e/state-of-the-maker-nation-wellington-tickets-44775157702)**  
 [Wednesday, May 23, 7-9 PM](https://www.eventbrite.co.nz/calendar.ics?eid=44775157702&calendar=ical&date=None)  
-[Rutherford House Lecture Theatre 2, Victoria University of Wellington, 33 Bunny St, Pipitea](https://goo.gl/maps/1d97ruHPYFE2)
+[Victoria University of Wellington, Rutherford House Lecture Theatre 2, 33 Bunny St, Pipitea](https://goo.gl/maps/1d97ruHPYFE2)
 
 **[Auckland](https://www.eventbrite.co.nz/e/state-of-the-maker-nation-auckland-tickets-41065451872)**  
 [Thursday, May 24, 7-9 PM](https://www.eventbrite.co.nz/calendar.ics?eid=41065451872&calendar=ical&date=None)  
