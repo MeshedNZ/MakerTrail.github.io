@@ -1,8 +1,3 @@
-(setq markdown-xhtml-header-content
-      "<style type='text/css'>
-forkme_banner { visibility: hidden; }
-</style>")
-
 # Welcome to the **2018 Aotearoa Makertrail** and **State of the Maker Nation** #  
 ## Brought to you by [Meshed](http://meshed.nz) for [TechWeek](http://techweek.co.nz) ##
 
