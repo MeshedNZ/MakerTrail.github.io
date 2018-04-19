@@ -11,7 +11,7 @@ Short updates focused on MakerSpaces in schools, libraries and the community. Ex
 
 
 ![@mosborne01](assets/pix/mosborne01.png)  
-**[Mark Osborne](https://twitter.com/mosborne01)** is an expert in future-focused education; innovative and inclusive learning environments. His mission is to help all schools become awesomeness incubators. (This will be a video presentaion)
+**[Mark Osborne](https://twitter.com/mosborne01)** is an expert in future-focused education; innovative and inclusive learning environments. His mission is to help all schools become awesomeness incubators. (This will be a video presentation)
 
 
 Following these will be a **lightning round** of 3 minute talks from many of the local maker groups that add to the Maker ecosystem in New Zealand.
