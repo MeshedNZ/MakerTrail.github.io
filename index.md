@@ -1,5 +1,7 @@
-# Welcome to the **2018 Aotearoa Makertrail** and **State of the Maker Nation** #  
-## Brought to you by [Meshed](http://meshed.nz) for [TechWeek](http://techweek.co.nz) ##
+#Welcome to the 2018#  
+#Aotearoa Makertrail and#  
+#State of the Maker Nation#  
+### Brought to you by [Meshed](http://meshed.nz) for [TechWeek](http://techweek.co.nz) ###
 
 Short updates focused on MakerSpaces in schools, libraries and the community. Experts in each field will give a summary of what is happening now and in the foreseeable future in their respective areas, followed by a round of lightning pitches by groups in the Maker community.
 
@@ -30,4 +32,4 @@ Feel free to drop [Andrew](mailto:andrew+makertrail@meshed.nz?subject=Enquiry vi
 
 RSVP tickets are [available here](https://www.eventbrite.co.nz/o/meshednz-17095798720)
 
-If you would get in touch, need more info or otherwise participate, please feel free to [contact us](mailto:kiaora+makertrail@meshed.nz?subject=Enquiry via MakerTrail.NZ&body=Hi, I found this website have queries/would like to participate)
+If you would get in touch, need more info or otherwise participate, please feel free to **[contact us](mailto:kiaora+makertrail@meshed.nz?subject=Enquiry via MakerTrail.NZ&body=Hi, I found this website have queries/would like to participate)**
