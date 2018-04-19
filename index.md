@@ -6,7 +6,7 @@
 Short updates focused on MakerSpaces in schools, libraries and the community. Experts in each field will give a summary of what is happening now and in the foreseeable future in their respective areas, followed by a round of lightning pitches by groups in the Maker community.
 
 
-![@KiwiMrDee](assets/pix/kiwimrdee.png)  
+![@KiwiMrDee](assets/pix/andrew_making_at_table_overhead_1.jpg)  
 **[Andrew Dixon](https://twitter.com/KiwiMrDee)** will be speaking on makerspaces in the community. He has been a founding member of two Auckland based makerspaces, and is currently a trustee of the [Gribblehirst Community Hub](https://ghub.nz/) in Auckland. Through Meshed, Andrew also consults countrywide on maker related issues.
 
 
