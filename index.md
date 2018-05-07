@@ -2,7 +2,7 @@
 
 ### Brought to you by [Meshed](http://meshed.nz) for [TechWeek](http://techweek.co.nz) ###
 
-![TechWeek](assets/pix/tw18logo1.png)  
+![TechWeek](assets/pix/Logo%20NO%20isometrico.png)![TechWeek](assets/pix/tw18logo1.png)  
 
 
 Short updates focused on MakerSpaces in schools, libraries and the community. Experts in each field will give a summary of what is happening now and in the foreseeable future in their respective areas, followed by a round of lightning pitches by groups in the Maker community.
