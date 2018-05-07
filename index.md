@@ -2,17 +2,17 @@
 
 ### Brought to you by [Meshed](http://meshed.nz) for [TechWeek](http://techweek.co.nz) ###
 
-![TechWeek](assets/pix/Logo%20NO%20isometrico.png){ width=50% }![TechWeek](assets/pix/tw18logo1.png){ width=50% }  
+![TechWeek](./assets/pix/Logo%20NO%20isometrico.png =50%)![TechWeek](./assets/pix/tw18logo1.png =50%)  
 
 
 Short updates focused on MakerSpaces in schools, libraries and the community. Experts in each field will give a summary of what is happening now and in the foreseeable future in their respective areas, followed by a round of lightning pitches by groups in the Maker community.
 
 
-![@KiwiMrDee](assets/pix/andrew_making_at_table_overhead_1.jpg)  
+![@KiwiMrDee](./assets/pix/andrew_making_at_table_overhead_1.jpg)  
 **[Andrew Dixon](https://twitter.com/KiwiMrDee)** will be speaking on makerspaces in the community. He has been a founding member of two Auckland based makerspaces, and is currently a trustee of the [Gribblehirst Community Hub](https://ghub.nz/) in Auckland. Through Meshed, Andrew also consults countrywide on maker related issues.
 
 
-![@mosborne01](assets/pix/mosborne01.png)  
+![@mosborne01](./assets/pix/mosborne01.png)  
 **[Mark Osborne](https://twitter.com/mosborne01)** is an expert in future-focused education; innovative and inclusive learning environments. His mission is to help all schools become awesomeness incubators. (This will be a video presentation)
 
 
