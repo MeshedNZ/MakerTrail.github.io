@@ -17,7 +17,7 @@ Short updates focused on MakerSpaces in schools, libraries and the community. Ex
 
 Following these will be a **lightning round** of 3 minute talks from many of the local maker groups that add to the Maker ecosystem in New Zealand.
 
-Feel free to drop [Andrew](mailto:andrew+makertrail@meshed.nz?subject=Enquiry via MakerTrail.NZ&body=Hi, I found this website have queries/would like to participate) a mail should you have any questions - especially if you would like to participate in the lightning rounds.
+Feel free to drop [Andrew](mailto:andrew+makertrail@meshed.nz?subject=Enquiry via MakerNation.NZ&body=Hi, I found this website have queries/would like to participate) a mail should you have any questions - especially if you would like to participate in the lightning rounds.
 
 
 **[Dunedin](https://www.eventbrite.co.nz/e/state-of-the-maker-nation-dunedin-tickets-44775177762)**  
@@ -38,4 +38,4 @@ Feel free to drop [Andrew](mailto:andrew+makertrail@meshed.nz?subject=Enquiry vi
 
 RSVP tickets are [available here](https://www.eventbrite.co.nz/o/meshednz-17095798720)
 
-If you would get in touch, need more info or otherwise participate, please feel free to **[contact us](mailto:kiaora+makertrail@meshed.nz?subject=Enquiry via MakerTrail.NZ&body=Hi, I found this website have queries/would like to participate)**
+If you would get in touch, need more info or otherwise participate, please feel free to **[contact us](mailto:kiaora+makertrail@meshed.nz?subject=Enquiry via MakerNation.NZ&body=Hi, I found this website have queries/would like to participate)**
