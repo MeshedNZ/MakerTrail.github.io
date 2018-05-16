@@ -21,12 +21,12 @@ Feel free to drop [Andrew](mailto:andrew+makertrail@meshed.nz?subject=Enquiry vi
 
 
 **[Dunedin](https://www.eventbrite.co.nz/e/state-of-the-maker-nation-dunedin-tickets-44775177762)**  
-[Monday,    May 21, 7-9 PM](https://www.eventbrite.co.nz/calendar.ics?eid=44775177762&calendar=ical&date=None)  
+[Monday,    May 21, 5:30-7:30 PM](https://www.eventbrite.co.nz/calendar.ics?eid=44775177762&calendar=ical&date=None)  
 [Dunedin City Library, 230 Moray Pl, Dunedin, 9016](https://goo.gl/maps/hp94qkaEv1s)
 
 **[Christchurch](https://www.eventbrite.co.nz/e/state-of-the-maker-nation-christchurch-tickets-44775205846)**  
-[Tuesday,   May 22, 7-9 PM](https://www.eventbrite.co.nz/calendar.ics?eid=44775205846&calendar=ical&date=None)  
-[address TBD](https://goo.gl/maps/UPNATiPvBFD2)
+[Tuesday,   May 22, 6-8 PM](https://www.eventbrite.co.nz/calendar.ics?eid=44775205846&calendar=ical&date=None)  
+[Exchange Christchurch (XCHC), 376 Wilsons Rd, Waltham, Christchurch, 8011](https://goo.gl/maps/pHB3wQtYi2n)
 
 **[Wellington](https://www.eventbrite.co.nz/e/state-of-the-maker-nation-wellington-tickets-44775157702)**  
 [Wednesday, May 23, 7-9 PM](https://www.eventbrite.co.nz/calendar.ics?eid=44775157702&calendar=ical&date=None)  
